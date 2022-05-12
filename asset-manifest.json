@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://nudo-lst.github.io/csb-z772s3/static/css/main.f758e5c1.chunk.css",
+    "main.js": "https://nudo-lst.github.io/csb-z772s3/static/js/main.614840ec.chunk.js",
+    "main.js.map": "https://nudo-lst.github.io/csb-z772s3/static/js/main.614840ec.chunk.js.map",
+    "runtime-main.js": "https://nudo-lst.github.io/csb-z772s3/static/js/runtime-main.a3fbd09a.js",
+    "runtime-main.js.map": "https://nudo-lst.github.io/csb-z772s3/static/js/runtime-main.a3fbd09a.js.map",
+    "static/js/2.e9b15a08.chunk.js": "https://nudo-lst.github.io/csb-z772s3/static/js/2.e9b15a08.chunk.js",
+    "static/js/2.e9b15a08.chunk.js.map": "https://nudo-lst.github.io/csb-z772s3/static/js/2.e9b15a08.chunk.js.map",
+    "index.html": "https://nudo-lst.github.io/csb-z772s3/index.html",
+    "static/css/main.f758e5c1.chunk.css.map": "https://nudo-lst.github.io/csb-z772s3/static/css/main.f758e5c1.chunk.css.map",
+    "static/js/2.e9b15a08.chunk.js.LICENSE.txt": "https://nudo-lst.github.io/csb-z772s3/static/js/2.e9b15a08.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "https://nudo-lst.github.io/csb-z772s3/static/media/Untitled21.705d36ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3fbd09a.js",
+    "static/js/2.e9b15a08.chunk.js",
+    "static/css/main.f758e5c1.chunk.css",
+    "static/js/main.614840ec.chunk.js"
+  ]
+}
